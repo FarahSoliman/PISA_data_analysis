@@ -9,7 +9,7 @@ For data cleaning missing values in data were replaced and per subject, the 5 pl
 
 # Univariate Exploration and Analysis
 
-The distribution of scores per subject is visualized: The scores show a normal distribution, with most students having an average score (between 400 to 500) in either Math, Reading or Science. For math, we can see that when compred with reading or science more students are achieving on the lower end of the spectrum, which indicates that math might be considered more \"difficult\" to students than the other two subjects.
+The distribution of scores per subject is visualized: The scores show a normal distribution, with most students having an average score (between 400 to 500) in either Math, Reading or Science. For math, we can see that when compred with reading or science more students are achieving on the lower end of the spectrum, which indicates that math might be considered more "difficult" to students than the other two subjects.
 
 Countries with most students with scores higher than 700 (above average) per subject are identified:
 *   Asian countries china and singapore have dominated top 3 positions in above average math scores, which follows the expected trend of Asians excelling at math.
