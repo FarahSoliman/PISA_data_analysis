@@ -41,13 +41,8 @@ Countries with more than a 10 position difference between rankings in each subje
 # Conclusion and Summary of Results
 
 * The scores show a normal distribution, with most students having an average score (between 400 to 500) in either Math, Reading or Science. For math, we can see that when compred with reading or science more students are achieving on the lower end of the spectrum, which indicates that math might be considered more "difficult" to students than the other two subjects.
-
 *   The majority of students have parents from the same country, which makes sense as it is more likely that parents will be from same country.
-
 *   A strong and positive correlation between the score of any two subjects is seen, indicating that students scoring high one subject tend to score high in the other two subjects. It can be noticed that for a small number of students math performance may be disproportionaely weaker than reading or science performance.
-
 *   Asian countries such as China, Singapore, and Japan have, on average, the highest scoring students in all three subjects, indicating a strong education system in those countries. Peru is the country with the lowest average score in all three subjects, which hints at a need of improvement in their education system. Mid-east countries such as Qatar, Tunisia, and Jordan have the low scoring students in all three subjects, which also hints that the education system needs some optimization in this area.
-
 *   For some countries there is a large difference in ranking between the three subjects. For example, in the USA math scores are disproportionately lower than reading/science scores, which inducates that more focus should be given to that subject and that changes should be made to the math syllabus or method of teaching in that country.
-
 *   Asian countries china and singapore have dominated top 3 positions in above average math scores, which follows the expected trend of Asians excelling at math. Singapore has the overall highest number of above average scoring students in all three subjects, which indicates that this country has a strong education system, moreover, Singapore has the overall highest number of above average scoring students in multiple subjects. China, Australia, Canada, and Japan also have multi-talented students.
